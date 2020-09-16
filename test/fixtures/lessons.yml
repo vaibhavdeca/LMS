@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  topic: MyString
+  length: 1
+  taught_by: MyString
+  difficulty: 1
+
+two:
+  topic: MyString
+  length: 1
+  taught_by: MyString
+  difficulty: 1

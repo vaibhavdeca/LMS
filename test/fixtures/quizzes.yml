@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  no_of_questions: 1
+  total_marks: 1
+  obtained_marks: 1
+  quiz_type: MyString
+  course: MyString
+  course: one
+
+two:
+  no_of_questions: 1
+  total_marks: 1
+  obtained_marks: 1
+  quiz_type: MyString
+  course: MyString
+  course: two
