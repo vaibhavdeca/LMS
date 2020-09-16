@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: 
+  title: MyString
+  duration: 1
+  level: MyString
+  hours_per_week: 1
+  Student: one
+
+two:
+  code: 
+  title: MyString
+  duration: 1
+  level: MyString
+  hours_per_week: 1
+  Student: two
